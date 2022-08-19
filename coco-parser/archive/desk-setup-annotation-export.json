@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "a990f5f6-3675-4199-af22-6c4a222e4f63",
+    "inputRecord": {
+      "id": "e38baa1a-0c68-497d-b782-180d168c1e33",
+      "data": {
+        "boxes": {
+          "url": "https://cdn.app-dev.alegion.com/tenant-assets/test-ys/c2c7ac20-97ae-4ab4-b590-00278708e775"
+        },
+        "assetMetadata": {
+          "filename": "desk-setup.png"
+        }
+      },
+      "metadata": "desk-setup.png",
+      "createdAt": "2022-08-15T07:23:34.559097Z"
+    },
+    "assetMetadata": {
+      "id": "c2c7ac20-97ae-4ab4-b590-00278708e775",
+      "name": "desk-setup.png",
+      "url": "https://cdn.app-dev.alegion.com/tenant-assets/test-ys/c2c7ac20-97ae-4ab4-b590-00278708e775"
+    },
+    "resultData": {
+      "boxes": {
+        "url": "https://cdn.app-dev.alegion.com/tenant-assets/test-ys/c2c7ac20-97ae-4ab4-b590-00278708e775",
+        "entities": [
+          {
+            "id": "6e03453d-6785-4060-b2cb-fa47f9b5371b",
+            "name": "Monitor 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 648,
+                "y": 949
+              },
+              {
+                "x": 648,
+                "y": 531
+              },
+              {
+                "x": 1587,
+                "y": 531
+              },
+              {
+                "x": 1587,
+                "y": 949
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Monitor",
+            "classifications": {}
+          },
+          {
+            "id": "2e0d5936-e1d4-4d50-8763-219929d90e34",
+            "name": "Monitor stand 1",
+            "shapeType": "polygon",
+            "coordinates": [
+              {
+                "x": 878,
+                "y": 935
+              },
+              {
+                "x": 924,
+                "y": 988
+              },
+              {
+                "x": 923,
+                "y": 1035
+              },
+              {
+                "x": 902,
+                "y": 1036
+              },
+              {
+                "x": 882,
+                "y": 1042
+              },
+              {
+                "x": 873,
+                "y": 1101
+              },
+              {
+                "x": 873,
+                "y": 1102
+              },
+              {
+                "x": 999,
+                "y": 1104
+              },
+              {
+                "x": 1005,
+                "y": 1103
+              },
+              {
+                "x": 1006,
+                "y": 1084
+              },
+              {
+                "x": 1008,
+                "y": 1038
+              },
+              {
+                "x": 974,
+                "y": 1036
+              },
+              {
+                "x": 973,
+                "y": 953
+              },
+              {
+                "x": 959,
+                "y": 934
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Monitor stand",
+            "classifications": {}
+          },
+          {
+            "id": "ad67ad63-7508-4160-9218-698b55cf4f6c",
+            "name": "Mouse 1",
+            "shapeType": "polygon",
+            "coordinates": [
+              {
+                "x": 1475,
+                "y": 1210
+              },
+              {
+                "x": 1478,
+                "y": 1223
+              },
+              {
+                "x": 1477,
+                "y": 1240
+              },
+              {
+                "x": 1458,
+                "y": 1248
+              },
+              {
+                "x": 1460,
+                "y": 1282
+              },
+              {
+                "x": 1483,
+                "y": 1304
+              },
+              {
+                "x": 1567,
+                "y": 1324
+              },
+              {
+                "x": 1583,
+                "y": 1301
+              },
+              {
+                "x": 1583,
+                "y": 1289
+              },
+              {
+                "x": 1567,
+                "y": 1227
+              },
+              {
+                "x": 1545,
+                "y": 1213
+              },
+              {
+                "x": 1511,
+                "y": 1201
+              },
+              {
+                "x": 1503,
+                "y": 1199
+              },
+              {
+                "x": 1480,
+                "y": 1205
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Mouse",
+            "classifications": {}
+          },
+          {
+            "id": "f20985ae-0794-4fbe-a3fb-3b02b5d5d736",
+            "name": "Keyboard 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 741,
+                "y": 1308
+              },
+              {
+                "x": 741,
+                "y": 1197
+              },
+              {
+                "x": 1375,
+                "y": 1197
+              },
+              {
+                "x": 1375,
+                "y": 1308
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Keyboard",
+            "classifications": {}
+          },
+          {
+            "id": "4fd6e78b-026b-4ea0-8a28-5322ea1080fa",
+            "name": "Lighting 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 1594,
+                "y": 1150
+              },
+              {
+                "x": 1594,
+                "y": 827
+              },
+              {
+                "x": 1747,
+                "y": 827
+              },
+              {
+                "x": 1747,
+                "y": 1150
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Lighting",
+            "classifications": {}
+          },
+          {
+            "id": "eab0b666-8aaf-4a17-ab7e-534053c42edd",
+            "name": "Lighting 2",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 186,
+                "y": 560
+              },
+              {
+                "x": 186,
+                "y": 4
+              },
+              {
+                "x": 278,
+                "y": 4
+              },
+              {
+                "x": 278,
+                "y": 560
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Lighting",
+            "classifications": {}
+          },
+          {
+            "id": "bb8dddc0-ee0f-4e0d-9722-9fb6689109e5",
+            "name": "Lighting 3",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 372,
+                "y": 448
+              },
+              {
+                "x": 372,
+                "y": 61
+              },
+              {
+                "x": 454,
+                "y": 61
+              },
+              {
+                "x": 454,
+                "y": 448
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Lighting",
+            "classifications": {}
+          },
+          {
+            "id": "74a20d0f-4fb0-47d4-b00a-fdd9c23ab0f7",
+            "name": "Plant 1",
+            "shapeType": "polygon",
+            "coordinates": [
+              {
+                "x": 503,
+                "y": 1019
+              },
+              {
+                "x": 512,
+                "y": 1148
+              },
+              {
+                "x": 552,
+                "y": 1157
+              },
+              {
+                "x": 605,
+                "y": 1153
+              },
+              {
+                "x": 631,
+                "y": 1130
+              },
+              {
+                "x": 636,
+                "y": 1005
+              },
+              {
+                "x": 627,
+                "y": 997
+              },
+              {
+                "x": 663,
+                "y": 975
+              },
+              {
+                "x": 649,
+                "y": 961
+              },
+              {
+                "x": 665,
+                "y": 948
+              },
+              {
+                "x": 648,
+                "y": 935
+              },
+              {
+                "x": 637,
+                "y": 930
+              },
+              {
+                "x": 630,
+                "y": 923
+              },
+              {
+                "x": 636,
+                "y": 915
+              },
+              {
+                "x": 655,
+                "y": 914
+              },
+              {
+                "x": 653,
+                "y": 905
+              },
+              {
+                "x": 627,
+                "y": 901
+              },
+              {
+                "x": 640,
+                "y": 885
+              },
+              {
+                "x": 637,
+                "y": 874
+              },
+              {
+                "x": 633,
+                "y": 874
+              },
+              {
+                "x": 624,
+                "y": 880
+              },
+              {
+                "x": 619,
+                "y": 877
+              },
+              {
+                "x": 611,
+                "y": 883
+              },
+              {
+                "x": 605,
+                "y": 888
+              },
+              {
+                "x": 587,
+                "y": 884
+              },
+              {
+                "x": 583,
+                "y": 887
+              },
+              {
+                "x": 600,
+                "y": 904
+              },
+              {
+                "x": 583,
+                "y": 899
+              },
+              {
+                "x": 560,
+                "y": 902
+              },
+              {
+                "x": 564,
+                "y": 885
+              },
+              {
+                "x": 564,
+                "y": 881
+              },
+              {
+                "x": 553,
+                "y": 883
+              },
+              {
+                "x": 528,
+                "y": 821
+              },
+              {
+                "x": 510,
+                "y": 823
+              },
+              {
+                "x": 506,
+                "y": 860
+              },
+              {
+                "x": 507,
+                "y": 901
+              },
+              {
+                "x": 518,
+                "y": 901
+              },
+              {
+                "x": 525,
+                "y": 914
+              },
+              {
+                "x": 516,
+                "y": 923
+              },
+              {
+                "x": 527,
+                "y": 943
+              },
+              {
+                "x": 526,
+                "y": 961
+              },
+              {
+                "x": 520,
+                "y": 961
+              },
+              {
+                "x": 518,
+                "y": 948
+              },
+              {
+                "x": 505,
+                "y": 951
+              },
+              {
+                "x": 505,
+                "y": 963
+              },
+              {
+                "x": 503,
+                "y": 966
+              },
+              {
+                "x": 501,
+                "y": 955
+              },
+              {
+                "x": 490,
+                "y": 961
+              },
+              {
+                "x": 489,
+                "y": 974
+              },
+              {
+                "x": 473,
+                "y": 990
+              },
+              {
+                "x": 483,
+                "y": 993
+              },
+              {
+                "x": 492,
+                "y": 983
+              },
+              {
+                "x": 494,
+                "y": 994
+              },
+              {
+                "x": 485,
+                "y": 1004
+              },
+              {
+                "x": 485,
+                "y": 1016
+              },
+              {
+                "x": 493,
+                "y": 1015
+              },
+              {
+                "x": 499,
+                "y": 1006
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Plant",
+            "classifications": {}
+          },
+          {
+            "id": "84635d9f-0249-40a0-ab1b-aa92e819b9bd",
+            "name": "Macbook 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 266,
+                "y": 1074
+              },
+              {
+                "x": 266,
+                "y": 834
+              },
+              {
+                "x": 611,
+                "y": 834
+              },
+              {
+                "x": 611,
+                "y": 1074
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Macbook",
+            "classifications": {}
+          },
+          {
+            "id": "10121c75-2493-4e35-b749-52dc9dde3c90",
+            "name": "Pen 1",
+            "shapeType": "polygon",
+            "coordinates": [
+              {
+                "x": 556,
+                "y": 1182
+              },
+              {
+                "x": 496,
+                "y": 1209
+              },
+              {
+                "x": 486,
+                "y": 1210
+              },
+              {
+                "x": 476,
+                "y": 1217
+              },
+              {
+                "x": 408,
+                "y": 1255
+              },
+              {
+                "x": 407,
+                "y": 1257
+              },
+              {
+                "x": 403,
+                "y": 1260
+              },
+              {
+                "x": 404,
+                "y": 1263
+              },
+              {
+                "x": 410,
+                "y": 1260
+              },
+              {
+                "x": 491,
+                "y": 1231
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Pen",
+            "classifications": {}
+          },
+          {
+            "id": "2bc64f38-61ee-4462-86b3-dc197756643e",
+            "name": "Monitor stand 2",
+            "shapeType": "polygon",
+            "coordinates": [
+              {
+                "x": 1972,
+                "y": 477
+              },
+              {
+                "x": 1973,
+                "y": 551
+              },
+              {
+                "x": 1953,
+                "y": 551
+              },
+              {
+                "x": 1950,
+                "y": 597
+              },
+              {
+                "x": 2059,
+                "y": 621
+              },
+              {
+                "x": 2061,
+                "y": 652
+              },
+              {
+                "x": 1940,
+                "y": 974
+              },
+              {
+                "x": 1930,
+                "y": 971
+              },
+              {
+                "x": 1920,
+                "y": 983
+              },
+              {
+                "x": 1917,
+                "y": 998
+              },
+              {
+                "x": 1914,
+                "y": 1001
+              },
+              {
+                "x": 1912,
+                "y": 1013
+              },
+              {
+                "x": 1915,
+                "y": 1015
+              },
+              {
+                "x": 1918,
+                "y": 1031
+              },
+              {
+                "x": 1910,
+                "y": 1156
+              },
+              {
+                "x": 1934,
+                "y": 1167
+              },
+              {
+                "x": 2000,
+                "y": 1174
+              },
+              {
+                "x": 2001,
+                "y": 1156
+              },
+              {
+                "x": 1982,
+                "y": 1141
+              },
+              {
+                "x": 1987,
+                "y": 1037
+              },
+              {
+                "x": 1994,
+                "y": 1005
+              },
+              {
+                "x": 1992,
+                "y": 1004
+              },
+              {
+                "x": 2114,
+                "y": 659
+              },
+              {
+                "x": 2122,
+                "y": 649
+              },
+              {
+                "x": 2126,
+                "y": 629
+              },
+              {
+                "x": 2125,
+                "y": 611
+              },
+              {
+                "x": 2121,
+                "y": 604
+              },
+              {
+                "x": 2118,
+                "y": 603
+              },
+              {
+                "x": 2103,
+                "y": 602
+              },
+              {
+                "x": 2031,
+                "y": 572
+              },
+              {
+                "x": 2030,
+                "y": 557
+              },
+              {
+                "x": 2028,
+                "y": 554
+              },
+              {
+                "x": 2010,
+                "y": 554
+              },
+              {
+                "x": 2011,
+                "y": 519
+              },
+              {
+                "x": 2017,
+                "y": 515
+              },
+              {
+                "x": 2016,
+                "y": 506
+              },
+              {
+                "x": 2009,
+                "y": 505
+              },
+              {
+                "x": 2008,
+                "y": 496
+              },
+              {
+                "x": 2015,
+                "y": 492
+              },
+              {
+                "x": 2014,
+                "y": 469
+              },
+              {
+                "x": 2012,
+                "y": 457
+              },
+              {
+                "x": 2008,
+                "y": 452
+              },
+              {
+                "x": 1995,
+                "y": 445
+              },
+              {
+                "x": 2007,
+                "y": 431
+              },
+              {
+                "x": 1972,
+                "y": 442
+              },
+              {
+                "x": 1978,
+                "y": 447
+              },
+              {
+                "x": 1989,
+                "y": 447
+              },
+              {
+                "x": 1991,
+                "y": 453
+              },
+              {
+                "x": 1983,
+                "y": 455
+              },
+              {
+                "x": 1982,
+                "y": 456
+              },
+              {
+                "x": 1981,
+                "y": 466
+              },
+              {
+                "x": 1979,
+                "y": 474
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Monitor stand",
+            "classifications": {}
+          },
+          {
+            "id": "e47452dd-1462-4beb-9dbf-f88cf2bc5028",
+            "name": "Mousepad 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 577,
+                "y": 1370
+              },
+              {
+                "x": 577,
+                "y": 1151
+              },
+              {
+                "x": 1671,
+                "y": 1151
+              },
+              {
+                "x": 1671,
+                "y": 1370
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Mousepad",
+            "classifications": {}
+          },
+          {
+            "id": "8fdfd2b9-8cab-42f4-9afd-0f4f6015d7ed",
+            "name": "Glasses 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 700,
+                "y": 1193
+              },
+              {
+                "x": 700,
+                "y": 1129
+              },
+              {
+                "x": 898,
+                "y": 1129
+              },
+              {
+                "x": 898,
+                "y": 1193
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Glasses",
+            "classifications": {}
+          },
+          {
+            "id": "679da985-5819-4b31-a0a2-ada1bf9b0a35",
+            "name": "Camera 1",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 663,
+                "y": 1107
+              },
+              {
+                "x": 663,
+                "y": 980
+              },
+              {
+                "x": 863,
+                "y": 980
+              },
+              {
+                "x": 863,
+                "y": 1107
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Camera",
+            "classifications": {}
+          },
+          {
+            "id": "30f8f0d4-5d1a-4ca8-9e07-00a6462841d0",
+            "name": "Camera 2",
+            "shapeType": "bounding-box",
+            "coordinates": [
+              {
+                "x": 1847,
+                "y": 479
+              },
+              {
+                "x": 1847,
+                "y": 312
+              },
+              {
+                "x": 2064,
+                "y": 312
+              },
+              {
+                "x": 2064,
+                "y": 479
+              }
+            ],
+            "relationships": [],
+            "entityTypeName": "Camera",
+            "classifications": {}
+          }
+        ],
+        "manifest": {
+          "annotatedAt": "2022-08-15T07:36:57.643Z",
+          "entityTypes": [
+            {
+              "name": "Camera",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Glasses",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Keyboard",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Lighting",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Macbook",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Monitor",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Monitor stand",
+              "shapeType": "polygon"
+            },
+            {
+              "name": "Mouse",
+              "shapeType": "polygon"
+            },
+            {
+              "name": "Mousepad",
+              "shapeType": "bounding-box"
+            },
+            {
+              "name": "Pen",
+              "shapeType": "polygon"
+            },
+            {
+              "name": "Plant",
+              "shapeType": "polygon"
+            }
+          ],
+          "resultFormat": {
+            "type": "alegion-image",
+            "version": "2.0"
+          },
+          "annotationTool": {
+            "type": "image-annotation-component",
+            "version": "3.0"
+          },
+          "entityHierarchy": [
+            {
+              "parent": {
+                "id": "6e03453d-6785-4060-b2cb-fa47f9b5371b",
+                "name": "Monitor 1",
+                "entityTypeName": "Monitor"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "2e0d5936-e1d4-4d50-8763-219929d90e34",
+                "name": "Monitor stand 1",
+                "entityTypeName": "Monitor stand"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "ad67ad63-7508-4160-9218-698b55cf4f6c",
+                "name": "Mouse 1",
+                "entityTypeName": "Mouse"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "f20985ae-0794-4fbe-a3fb-3b02b5d5d736",
+                "name": "Keyboard 1",
+                "entityTypeName": "Keyboard"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "4fd6e78b-026b-4ea0-8a28-5322ea1080fa",
+                "name": "Lighting 1",
+                "entityTypeName": "Lighting"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "eab0b666-8aaf-4a17-ab7e-534053c42edd",
+                "name": "Lighting 2",
+                "entityTypeName": "Lighting"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "bb8dddc0-ee0f-4e0d-9722-9fb6689109e5",
+                "name": "Lighting 3",
+                "entityTypeName": "Lighting"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "74a20d0f-4fb0-47d4-b00a-fdd9c23ab0f7",
+                "name": "Plant 1",
+                "entityTypeName": "Plant"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "84635d9f-0249-40a0-ab1b-aa92e819b9bd",
+                "name": "Macbook 1",
+                "entityTypeName": "Macbook"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "10121c75-2493-4e35-b749-52dc9dde3c90",
+                "name": "Pen 1",
+                "entityTypeName": "Pen"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "2bc64f38-61ee-4462-86b3-dc197756643e",
+                "name": "Monitor stand 2",
+                "entityTypeName": "Monitor stand"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "e47452dd-1462-4beb-9dbf-f88cf2bc5028",
+                "name": "Mousepad 1",
+                "entityTypeName": "Mousepad"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "8fdfd2b9-8cab-42f4-9afd-0f4f6015d7ed",
+                "name": "Glasses 1",
+                "entityTypeName": "Glasses"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "679da985-5819-4b31-a0a2-ada1bf9b0a35",
+                "name": "Camera 1",
+                "entityTypeName": "Camera"
+              },
+              "children": []
+            },
+            {
+              "parent": {
+                "id": "30f8f0d4-5d1a-4ca8-9e07-00a6462841d0",
+                "name": "Camera 2",
+                "entityTypeName": "Camera"
+              },
+              "children": []
+            }
+          ]
+        }
+      }
+    },
+    "createdAt": "2022-08-15T07:37:08.475483Z"
+  }
+]

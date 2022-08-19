@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "media_type": "image",
+  "sample_fields": {
+    "filepath": "fiftyone.core.fields.StringField",
+    "tags": "fiftyone.core.fields.ListField(fiftyone.core.fields.StringField)",
+    "metadata": "fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.metadata.ImageMetadata)",
+    "ground_truth": "fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.labels.Classification)",
+    "uniqueness": "fiftyone.core.fields.FloatField",
+    "predictions": "fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.labels.Detections)"
+  },
+  "info": {}
+}

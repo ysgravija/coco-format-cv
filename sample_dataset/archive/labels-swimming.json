@@ -1,0 +1,58 @@
+{
+  "info": {
+    "year": 2022,
+    "version": "draft_v1",
+    "description": "Alegion COCO Export",
+    "url": "https://www.alegion.com/company/about-alegion",
+    "date_created": "2022-08-19 17:13:28"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "Alegion License",
+      "url": "https://www.alegion.com/company/about-alegion"
+    }
+  ],
+  "images": [
+    {
+      "license": 1,
+      "file_name": "swimming2.PNG",
+      "coco_url": "",
+      "height": 1060,
+      "width": 2319,
+      "date_captured": "2022-08-19",
+      "flickr_url": "",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Human 1",
+      "supercategory": "Human 1"
+    },
+    {
+      "id": 2,
+      "name": "Swimming",
+      "supercategory": "Swimming"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        953,
+        270,
+        295,
+        650
+      ],
+      "area": 191750,
+      "iscrowd": 0,
+      "classifications": [{
+        "white-cap": "yes"
+      }]
+    }
+  ]
+}
